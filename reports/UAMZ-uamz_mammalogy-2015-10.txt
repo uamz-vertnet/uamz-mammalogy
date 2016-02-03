@@ -1,0 +1,140 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 414
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-14 ; Times: 6
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 6
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "gbifdatasetid:88d5d94e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Sciuridae AND skeleton institutioncode:UAMZ" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 2
+	Query: "bison foetus" ; Times: 1
+	Query: "vampire" ; Times: 4
+	Query: "Sciuridae institutioncode:UAMZ" ; Times: 2
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 2
+	Query: "capybara" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "erethizon canada" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Leopardus pajeros" ; Times: 1
+	Query: "lynx canadensis (canada)" ; Times: 1
+	Query: "deer antler" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 823 download events in this period)
+Total number of records downloaded: 2006
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 41
+	Country: Uganda ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 9
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-20 ; Times: 4
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-01 ; Times: 5
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 8
+	Date: 2015-10-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "bison priscus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "Hoolock hoolock" ; Times: 1
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "deer antler" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "ovis aries" ; Times: 1
+	Query: "Microtus (Newfoundland Labrador)" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
