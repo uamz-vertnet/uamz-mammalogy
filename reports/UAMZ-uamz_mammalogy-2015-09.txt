@@ -1,0 +1,157 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 323
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-24 ; Times: 5
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "skeleton AND rodentia type:specimen institutioncode:UAMZ" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "least weasel" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "skeleton AND primates type:specimen institutioncode:UAMZ" ; Times: 1
+	Query: "star nosed mole" ; Times: 1
+	Query: "skeleton AND carnivora type:specimen institutioncode:UAMZ" ; Times: 1
+	Query: "polar bear skull" ; Times: 1
+	Query: "M8132" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "water shrew" ; Times: 3
+	Query: "pygmy shrew" ; Times: 3
+	Query: "cheetah" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Grey Wolf" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 123 (out of 1045 download events in this period)
+Total number of records downloaded: 11650
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 1
+	Country: United States ; Times: 103
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-10 ; Times: 31
+	Date: 2015-09-11 ; Times: 3
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 14
+	Date: 2015-09-16 ; Times: 31
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-29 ; Times: 8
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+
+
+End of report.
