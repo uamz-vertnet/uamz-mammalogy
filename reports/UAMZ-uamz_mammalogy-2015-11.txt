@@ -1,0 +1,91 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cheetah" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "least weasel" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 751 download events in this period)
+Total number of records downloaded: 15827
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 75
+	Country: Unknown ; Times: 10
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 3
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-03 ; Times: 15
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-13 ; Times: 5
+	Date: 2015-11-12 ; Times: 4
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-26 ; Times: 8
+	Date: 2015-11-01 ; Times: 5
+	Date: 2015-11-06 ; Times: 5
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-04 ; Times: 6
+	Date: 2015-11-05 ; Times: 6
+	Date: 2015-11-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "class:mammalia stateprovince:California" ; Times: 37
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "procyon lotor" ; Times: 2
+	Query: "Brown rat" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "institutioncode:UAMZ" ; Times: 1
+	Query: "Myocastor" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 5
+	Query: "Microtus californicus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
