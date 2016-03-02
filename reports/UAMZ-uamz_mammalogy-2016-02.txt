@@ -1,0 +1,111 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 211
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: Russia ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-16 ; Times: 2
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-19 ; Times: 7
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-11 ; Times: 3
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "Panthera uncia" ; Times: 7
+	Query: "canadian lynx" ; Times: 1
+	Query: "13 lined ground squirrel" ; Times: 1
+	Query: "vampire" ; Times: 11
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis county:&#34;Park&#34;" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;Yukon&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 512 download events in this period)
+Total number of records downloaded: 3681
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 18
+	Country: Mexico ; Times: 22
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-18 ; Times: 6
+	Date: 2016-02-19 ; Times: 11
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 3
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;ontario&#34;" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
