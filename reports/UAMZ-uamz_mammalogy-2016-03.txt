@@ -1,0 +1,71 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "leopardus PAJEROS" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Iowa&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "leopardus pajeros" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "Canadian Museum of Nature" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 230 download events in this period)
+Total number of records downloaded: 1251
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 38
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-10 ; Times: 11
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "babyrousa" ; Times: 1
+	Query: "babirusa" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "tissue" ; Times: 33
+	Query: "Babyrousa" ; Times: 2
+	Query: "dasyurus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+
+
+End of report.
