@@ -1,0 +1,124 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 233
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 6
+	Country: Russia ; Times: 10
+	Country: Spain ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-02 ; Times: 2
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-20 ; Times: 6
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "least weasel" ; Times: 2
+	Query: "Bison bison Canada 1" ; Times: 1
+	Query: "lophiomys" ; Times: 1
+	Query: "vampire" ; Times: 10
+	Query: "woodland caribou" ; Times: 3
+	Query: "hyena" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "galemys" ; Times: 3
+	Query: "pronghorn" ; Times: 1
+	Query: "guanaco" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 120 (out of 1312 download events in this period)
+Total number of records downloaded: 8887
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: Unknown ; Times: 22
+	Country: Portugal ; Times: 5
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 8
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 7
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 7
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 6
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera leo" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
