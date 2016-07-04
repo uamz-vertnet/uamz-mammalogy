@@ -1,0 +1,150 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 465
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 28
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-21 ; Times: 14
+	Date: 2016-06-20 ; Times: 8
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-06 ; Times: 5
+	Date: 2016-06-01 ; Times: 12
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 2
+	Query: "&#34;University of Alberta Museums&#34; and edmonton" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "symphalangus syndactylus" ; Times: 5
+	Query: "bison bison   " ; Times: 6
+	Query: "ocelot" ; Times: 2
+	Query: "Eptesicus AND Island" ; Times: 1
+	Query: "genus:Bison" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "Pine Marten" ; Times: 3
+	Query: "Axis axis" ; Times: 1
+	Query: "genus:bison" ; Times: 5
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "gbifdatasetid:88d5d94e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "genus:canis" ; Times: 1
+	Query: "alces alces   " ; Times: 6
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "canis lupus   " ; Times: 2
+	Query: "aardvark" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Bos taurus juvenile" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 120 (out of 1052 download events in this period)
+Total number of records downloaded: 8300
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 75
+	Country: Mexico ; Times: 36
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 11
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-06 ; Times: 6
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 3
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-17 ; Times: 12
+	Date: 2016-06-14 ; Times: 11
+	Date: 2016-06-15 ; Times: 11
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 16
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera leo" ; Times: 5
+	Query: "Phascolarctos" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "&#34;University of Alberta Museums&#34; and edmonton" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
