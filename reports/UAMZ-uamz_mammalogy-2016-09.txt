@@ -1,0 +1,97 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Costa Rica ; Times: 5
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-21 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-05 ; Times: 2
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;north American porcupine&#34; genus:Erethizon dorsatum" ; Times: 1
+	Query: "north american porcupine genus:Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "class:Mammalia felidae Leopardus tigrinus" ; Times: 5
+	Query: "Erethizon &#34;North American Porcupine&#34;" ; Times: 1
+	Query: "&#34;porcupine&#34; &#34;Erethizon&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "institutioncode:UAMZ tissue:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 3
+	Query: "&#34;porcupine&#34; &#34;erethizon&#34; mappable:1" ; Times: 2
+	Query: "&#34;Erethizon&#34; &#34;north american porcupine&#34; mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 147 (out of 811 download events in this period)
+Total number of records downloaded: 9892
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 99
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 5
+	Date: 2016-09-12 ; Times: 6
+	Date: 2016-09-11 ; Times: 7
+	Date: 2016-09-10 ; Times: 3
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 3
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 10
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 4
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-06 ; Times: 7
+	Date: 2016-09-07 ; Times: 7
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-01 ; Times: 12
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 14
+	Date: 2016-09-05 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "dermoptera" ; Times: 2
+	Query: "Dermoptera" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "Dipodomys ingens" ; Times: 1
+
+
+End of report.
