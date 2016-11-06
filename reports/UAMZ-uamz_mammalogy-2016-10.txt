@@ -1,0 +1,65 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 10
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-04 ; Times: 4
+	Date: 2016-10-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctereutes procyonoides " ; Times: 2
+	Query: "Nyctereutes procyonoides mappable:0" ; Times: 1
+	Query: " Nyctereutes procyonoides" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 203 download events in this period)
+Total number of records downloaded: 8162
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 92
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-19 ; Times: 2
+	Date: 2016-10-18 ; Times: 3
+	Date: 2016-10-31 ; Times: 1
+	Date: 2016-10-30 ; Times: 3
+	Date: 2016-10-15 ; Times: 2
+	Date: 2016-10-14 ; Times: 4
+	Date: 2016-10-17 ; Times: 3
+	Date: 2016-10-16 ; Times: 3
+	Date: 2016-10-11 ; Times: 13
+	Date: 2016-10-13 ; Times: 8
+	Date: 2016-10-12 ; Times: 1
+	Date: 2016-10-08 ; Times: 4
+	Date: 2016-10-06 ; Times: 2
+	Date: 2016-10-29 ; Times: 3
+	Date: 2016-10-20 ; Times: 5
+	Date: 2016-10-22 ; Times: 2
+	Date: 2016-10-23 ; Times: 12
+	Date: 2016-10-24 ; Times: 5
+	Date: 2016-10-25 ; Times: 5
+	Date: 2016-10-26 ; Times: 3
+	Date: 2016-10-27 ; Times: 2
+	Date: 2016-10-28 ; Times: 2
+	Date: 2016-10-07 ; Times: 3
+	Date: 2016-10-04 ; Times: 8
+	Date: 2016-10-05 ; Times: 4
+	Date: 2016-10-02 ; Times: 2
+	Date: 2016-10-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 106
+
+
+End of report.
