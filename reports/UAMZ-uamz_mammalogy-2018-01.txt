@@ -1,0 +1,169 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 337
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 61
+	Country: United States ; Times: 24
+	Country: Guatemala ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 3
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-15 ; Times: 20
+	Date: 2018-01-14 ; Times: 13
+	Date: 2018-01-22 ; Times: 6
+	Date: 2018-01-16 ; Times: 13
+	Date: 2018-01-24 ; Times: 21
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-25 ; Times: 8
+	Date: 2018-01-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "masked shrew" ; Times: 1
+	Query: "genus:Halichoerus continent:North America" ; Times: 1
+	Query: "Camelus dromedarius dromedarius" ; Times: 12
+	Query: "specificepithet:Nitratoides genus:Dipodomys year &gt;= 1940 year &lt;= 1960" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "specificepithet:bison genus:bison preparations:skin" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M10733&#34;" ; Times: 4
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "anteater" ; Times: 1
+	Query: "rhesus macaque" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "Equus ferus caballus" ; Times: 5
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "bison skin" ; Times: 3
+	Query: "Elephas maximus" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "felis concolor" ; Times: 5
+	Query: "cheetah" ; Times: 3
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Eva Lake" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "pika" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 14
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "Equus caballus ferus" ; Times: 2
+	Query: "&#34;Salvelinus confluentus&#34; hastissue:1" ; Times: 3
+	Query: "class:mammalia institutioncode:UAMZ" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "hedgehog" ; Times: 3
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 1398 download events in this period)
+Total number of records downloaded: 752
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 17
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 39
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 18
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-30 ; Times: 3
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-25 ; Times: 10
+	Date: 2018-01-23 ; Times: 8
+	Date: 2018-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mus musculus" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "&#34;pipistrellus pipistrellus&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "sorex arcticus vntype:specimen country:&#34;Canada&#34;" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "muntiacus muntjak continent:asia" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "specificepithet:glareolus genus:Myodes family:Cricetidae order:Rodentia class:Mammalia year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "American Badger" ; Times: 2
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "Mustela furo" ; Times: 1
+
+
+End of report.
