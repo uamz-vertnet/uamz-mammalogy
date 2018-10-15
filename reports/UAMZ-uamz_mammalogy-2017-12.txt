@@ -1,0 +1,115 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 199
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Gambia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United Kingdom ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-04 ; Times: 8
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "Gray Wolf" ; Times: 1
+	Query: "Alpaca" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Least Weasel" ; Times: 1
+	Query: "Canadian lynx" ; Times: 1
+	Query: "pine marten" ; Times: 3
+	Query: "ermine" ; Times: 1
+	Query: "Canadian Lynx" ; Times: 1
+	Query: "Zapus 2542" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "wolverine" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Ermine" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "rock hyrax" ; Times: 1
+	Query: "specificepithet:borealis genus:Balaenoptera" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "lepus arcticus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 674 download events in this period)
+Total number of records downloaded: 1296
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 35
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 8
+	Date: 2017-12-27 ; Times: 5
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-14 ; Times: 7
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus montanus" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "sorex hoyi" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "sorex haydeni" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
