@@ -1,0 +1,166 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 155
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Denmark ; Times: 31
+	Country: Australia ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 11
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-07 ; Times: 3
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-05 ; Times: 6
+	Date: 2018-02-04 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "beatragus hunteri" ; Times: 6
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M10733&#34;" ; Times: 4
+	Query: "little brown bat hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M5092&#34;" ; Times: 4
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "Pangolin" ; Times: 2
+	Query: "Elephas maximus" ; Times: 2
+	Query: "wolverine" ; Times: 1
+	Query: "Sciurocheirus alleni " ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M5137&#34;" ; Times: 4
+	Query: "Pikas" ; Times: 1
+	Query: "vntype:specimen specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M5093&#34;" ; Times: 4
+	Query: "Camelus dromedarius" ; Times: 6
+	Query: "scientificname:&#34;procavia sp.&#34;" ; Times: 3
+	Query: "specificepithet:Ursus arctos country:&#34;Canada&#34;" ; Times: 2
+	Query: "pika" ; Times: 4
+	Query: "little brown bat" ; Times: 1
+	Query: "Mustela putorius furo" ; Times: 1
+	Query: "locality:beaverhill stateprovince:&#34;alberta&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 1892 download events in this period)
+Total number of records downloaded: 21496
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 72
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 57
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:Ursus arctos country:&#34;Canada&#34;" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "macaca mulatta" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Martes americana" ; Times: 1
+	Query: "class:Mammalia institutioncode:UAMZ" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "genus:manis" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "choloepus" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
