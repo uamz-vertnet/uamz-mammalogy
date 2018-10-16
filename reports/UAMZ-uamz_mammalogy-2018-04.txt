@@ -1,0 +1,138 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 1425
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 46
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-17 ; Times: 6
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-04 ; Times: 7
+	Date: 2018-04-07 ; Times: 5
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-23 ; Times: 13
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-30 ; Times: 9
+	Date: 2018-04-27 ; Times: 6
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 4
+	Query: "disaster" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:nuttallii mappable:1" ; Times: 2
+	Query: "genus:Marmota specificepithet:caligata mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "genus:Perognathus specificepithet:fasciatus mappable:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "specificepithet:arcticus genus:Sorex institutioncode:UAMZ" ; Times: 2
+	Query: "specificepithet:vagrans genus:Sorex institutioncode:UAMZ" ; Times: 1
+	Query: "specificepithet:haydeni genus:Sorex institutioncode:UAMZ" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor mappable:1" ; Times: 2
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 7
+	Query: "genus:Sorex specificepithet:hoyi mappable:1" ; Times: 2
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "duck billed platypus" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer mappable:1" ; Times: 1
+	Query: "nocturnal" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex institutioncode:UAMZ" ; Times: 2
+	Query: "specificepithet:noctivagans genus:Lasionycteris year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer" ; Times: 1
+	Query: "genus:Urocitellus specificepithet:columbianus mappable:1" ; Times: 2
+	Query: "pika" ; Times: 4
+	Query: "genus:Sorex institutioncode:UAMZ" ; Times: 8
+	Query: "genus:Sorex specificepithet:haydeni mappable:1" ; Times: 2
+	Query: "genus:Martes specificepithet:pennanti mappable:1" ; Times: 3
+	Query: "genus:Mustela specificepithet:nivalis mappable:1" ; Times: 1
+	Query: "genus:Lepus specificepithet:arcticus mappable:1" ; Times: 1
+	Query: "Mustela year&gt;=1990 year&lt;=1992 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Bison specificepithet:bison mappable:1" ; Times: 2
+	Query: "Leopardus pajeros" ; Times: 1
+	Query: "moustached guenon monkey" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1359 download events in this period)
+Total number of records downloaded: 883
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 19
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "order:Rodentia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:arcticus genus:Sorex institutioncode:UAMZ" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "specificepithet:tarandus caribou genus:Rangifer mappable:1" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:mus country:&#34;canada&#34;" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex institutioncode:UAMZ" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:haydeni genus:Sorex institutioncode:UAMZ" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "Leopardus pajeros" ; Times: 1
+
+
+End of report.
