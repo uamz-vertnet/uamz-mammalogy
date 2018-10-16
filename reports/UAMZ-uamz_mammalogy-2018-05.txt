@@ -1,0 +1,90 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 289
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Canada ; Times: 4
+	Country: Italy ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-15 ; Times: 3
+	Date: 2018-05-04 ; Times: 4
+	Date: 2018-05-11 ; Times: 6
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-08 ; Times: 8
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mustela nivalis" ; Times: 1
+	Query: "gbifdatasetid:88d5d94e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "mongolian gerbil" ; Times: 3
+	Query: "little brown bat" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "Lophiomys imhausi" ; Times: 6
+	Query: "lesion" ; Times: 2
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "aardvark" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1178 download events in this period)
+Total number of records downloaded: 160
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "mongolian gerbil" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Urocitellus columbianus" ; Times: 1
+
+
+End of report.
