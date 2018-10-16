@@ -1,0 +1,187 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 343
+Number of records retrieved in searches: 717
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 279
+	Country: United Kingdom ; Times: 13
+	Country: Israel ; Times: 1
+	Country: Denmark ; Times: 46
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-06 ; Times: 16
+	Date: 2018-03-28 ; Times: 9
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-01 ; Times: 19
+	Date: 2018-03-07 ; Times: 46
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-02 ; Times: 35
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-05 ; Times: 40
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-29 ; Times: 7
+	Date: 2018-03-26 ; Times: 47
+	Date: 2018-03-27 ; Times: 51
+	Date: 2018-03-25 ; Times: 23
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 30
+	Date: 2018-03-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M6774&#34;" ; Times: 4
+	Query: "specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "genus:Lutra specificepithet:lutra" ; Times: 5
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "yellow-pine chipmunk" ; Times: 3
+	Query: "Flying squirrel skeleton" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca" ; Times: 2
+	Query: "genus:Lepus specificepithet:sp." ; Times: 5
+	Query: "genus:Neoromicia specificepithet:capensis" ; Times: 2
+	Query: "genus:Hipposideros specificepithet:gigas" ; Times: 5
+	Query: "genus:Bos specificepithet:taurus" ; Times: 2
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 7
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M5446&#34;" ; Times: 4
+	Query: "genus:Callithrix specificepithet:sp." ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M7995&#34;" ; Times: 4
+	Query: "genus:Puma specificepithet:concolor" ; Times: 5
+	Query: "genus:Symphalangus specificepithet:syndactylus" ; Times: 7
+	Query: "specificepithet:didactylus genus:Choloepus" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M7965&#34;" ; Times: 4
+	Query: "wood rat" ; Times: 2
+	Query: "genus:Saguinus specificepithet:sp." ; Times: 6
+	Query: "genus:Canis specificepithet:sp." ; Times: 5
+	Query: "genus:Pithecia specificepithet:pithecia" ; Times: 7
+	Query: "genus:Macaca specificepithet:sp." ; Times: 4
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 5
+	Query: "specificepithet:minimus genus:Chironectes" ; Times: 1
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 2
+	Query: "genus:gorilla specificepithet:gorilla" ; Times: 1
+	Query: "genus:Hylobates specificepithet:agilis" ; Times: 6
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M7772&#34;" ; Times: 4
+	Query: "vntype:specimen family:Manidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 10
+	Query: "genus:Tarsius specificepithet:spectrum" ; Times: 11
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 2
+	Query: "genus:Perodicticus specificepithet:potto" ; Times: 2
+	Query: "genus:Alouatta specificepithet:sp." ; Times: 11
+	Query: "specificepithet:punctata genus:Dasyprocta" ; Times: 1
+	Query: "genus:Callithrix specificepithet:pygmaea" ; Times: 7
+	Query: "genus:Cebus specificepithet:capucinus" ; Times: 2
+	Query: "genus:Hoolock specificepithet:hoolock" ; Times: 6
+	Query: "pika" ; Times: 1
+	Query: "genus:Papio specificepithet:sp." ; Times: 5
+	Query: "genus:Hylobates specificepithet:lar" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M7773&#34;" ; Times: 4
+	Query: "genus:Atelerix" ; Times: 3
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Tupaia specificepithet:tana" ; Times: 5
+	Query: "genus:Cercopithecus specificepithet:cephus" ; Times: 2
+	Query: "genus:Didelphis specificepithet:sp." ; Times: 5
+	Query: "specificepithet:tetradactyla genus:Tamandua" ; Times: 1
+	Query: "genus:Loris specificepithet:tardigradus" ; Times: 9
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "genus:Phascolarctos specificepithet:cinereus" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "genus:Saguinus specificepithet:oedipus" ; Times: 7
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 2
+	Query: "Pika" ; Times: 1
+	Query: "genus:Dasypus specificepithet:sp." ; Times: 5
+	Query: "genus:Cebus specificepithet:Sp." ; Times: 6
+	Query: "genus:Eulemur specificepithet:macaco" ; Times: 5
+	Query: "felis domesticus" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 12
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "genus:Hylobates specificepithet:sp." ; Times: 8
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "genus:Macaca specificepithet:mulatta" ; Times: 2
+	Query: "genus:Myotis specificepithet:daubentonii" ; Times: 5
+	Query: "genus:Nyctereutes" ; Times: 3
+	Query: "genus:Pteromys" ; Times: 3
+	Query: "genus:Procavia specificepithet:sp." ; Times: 5
+	Query: "bat family:Vespertilionidae stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:tigrinus genus:Leopardus" ; Times: 1
+	Query: "M1828" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 2
+	Query: "Panthera tigris " ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 5
+	Query: "genus:gorilla" ; Times: 1
+	Query: "genus:Choloepus specificepithet:didactylus " ; Times: 5
+	Query: "genus:Cercocebus specificepithet:albigena" ; Times: 7
+	Query: "genus:Chironectes specificepithet:minimus" ; Times: 5
+	Query: "M947" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M2694&#34;" ; Times: 4
+	Query: "specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M5447&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:UAMZ:M3686&#34;" ; Times: 4
+	Query: "genus:Manis specificepithet:sp." ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1284 download events in this period)
+Total number of records downloaded: 421
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Poland ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 12
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-27 ; Times: 2
+	Date: 2018-03-24 ; Times: 3
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 5
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Felidae" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "Talpa" ; Times: 1
+	Query: "yellow-pine chipmunk" ; Times: 1
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 5
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "rodentia hasmass:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:lutris genus:Enhydra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen family:Manidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Manidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+
+
+End of report.
