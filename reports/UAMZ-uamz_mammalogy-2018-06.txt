@@ -1,0 +1,139 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 236
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 6
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 17
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-27 ; Times: 5
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 3
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "vntype:specimen specificepithet:tatarica genus:Saiga" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "genus:hydrurga" ; Times: 1
+	Query: "Puma concolor" ; Times: 4
+	Query: "Red Panda" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Canada specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "Gray Wolf" ; Times: 2
+	Query: "Pika" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "pika" ; Times: 4
+	Query: "Gray wolf" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "snow leopard" ; Times: 11
+	Query: "genus:Lemniscomys hastissue:1" ; Times: 1
+	Query: "meerkat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1169 download events in this period)
+Total number of records downloaded: 2373
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 23
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-04 ; Times: 6
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-08 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "sloth" ; Times: 4
+	Query: "gray wolf" ; Times: 2
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Cougar" ; Times: 1
+	Query: "snow leopard" ; Times: 3
+	Query: "ocelot" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "GREY WOLF" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "American Beaver" ; Times: 4
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "grey wolf" ; Times: 2
+	Query: "pika" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "hyena" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "meerkat" ; Times: 1
+
+
+End of report.
