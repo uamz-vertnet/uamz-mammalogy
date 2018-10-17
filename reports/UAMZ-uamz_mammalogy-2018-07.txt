@@ -1,0 +1,89 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 91
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 4
+	Country: Lithuania ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Sri Lanka ; Times: 3
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-29 ; Times: 3
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-05 ; Times: 2
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-21 ; Times: 3
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-03 ; Times: 4
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-20 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:procyonoides genus:Nyctereutes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "Panthera uncia" ; Times: 4
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 2
+	Query: "Lutra canadensis" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "Puma concolor" ; Times: 13
+	Query: "dusicyon" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex (skull OR skeleton) AND (NOT fossil) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "Hydrochaerus" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Boar skull" ; Times: 1
+	Query: "specificepithet:lynx genus:Lynx" ; Times: 1
+	Query: "Leopard seal" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "genus:Myrmecophaga preparations:skeleton" ; Times: 1
+	Query: "graham specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "Leopard seal vntype:specimen" ; Times: 1
+	Query: "pika" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 977 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Anoura" ; Times: 1
+
+
+End of report.
