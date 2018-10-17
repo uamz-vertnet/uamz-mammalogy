@@ -1,0 +1,88 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 99
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Sri Lanka ; Times: 13
+	Country: Israel ; Times: 9
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-21 ; Times: 9
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-28 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "hair samples" ; Times: 2
+	Query: "least weasel" ; Times: 4
+	Query: "Puma concolor 1964" ; Times: 1
+	Query: "Puma concolor " ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "Red Fox skeleton" ; Times: 1
+	Query: "class:mammalia country:&#34;canada&#34; year &gt;= 1941 year &lt;= 1941" ; Times: 1
+	Query: "UAMZ 121" ; Times: 1
+	Query: "recordedby:balmer" ; Times: 1
+	Query: "Puma concolor" ; Times: 21
+	Query: "abnormal growth" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1416 download events in this period)
+Total number of records downloaded: 323
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-23 ; Times: 6
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-09 ; Times: 5
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "abnormal growth" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+
+
+End of report.
