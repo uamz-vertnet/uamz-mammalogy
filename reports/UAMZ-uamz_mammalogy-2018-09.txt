@@ -1,0 +1,89 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 40
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 15
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-03 ; Times: 4
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tarsier" ; Times: 1
+	Query: "pika" ; Times: 4
+	Query: "least weasel" ; Times: 1
+	Query: "genus:Sousa" ; Times: 1
+	Query: "snow leopard" ; Times: 3
+	Query: "Wolverine" ; Times: 1
+	Query: "cougar" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "specificepithet:macroura genus:Ratufa" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "Pika" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 846 download events in this period)
+Total number of records downloaded: 632
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Australia ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-07 ; Times: 7
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "snow leopard" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+	Query: "grey wolf" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+
+
+End of report.
