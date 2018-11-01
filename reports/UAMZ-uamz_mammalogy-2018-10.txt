@@ -1,0 +1,154 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 319
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: United Kingdom ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 1
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 8
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-28 ; Times: 2
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-08 ; Times: 13
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-12 ; Times: 4
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Felis concolor year &gt;= 1970" ; Times: 1
+	Query: "genus:Echinosorex" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "Felis concolor year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:chinchilla genus:Chinchilla" ; Times: 3
+	Query: "ocelot" ; Times: 2
+	Query: "Felis concolor" ; Times: 1
+	Query: "pronghorn" ; Times: 1
+	Query: "specificepithet:columbianus genus:Urocitellus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:suslicus genus:Spermophilus" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UAMZ" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "chinchilla mammalia" ; Times: 3
+	Query: "skeleton of Lama" ; Times: 2
+	Query: "giant kangaroo rat" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "specificepithet:nitratoides genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:macroura genus:Ratufa" ; Times: 8
+	Query: "specificepithet:lanigera genus:Chinchilla" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 3
+	Query: "Tarsier" ; Times: 2
+	Query: "louisianna" ; Times: 1
+	Query: "mountain beaver" ; Times: 2
+	Query: "specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "Aardvark" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:marmota genus:Marmota" ; Times: 1
+	Query: "specificepithet:dorsatus genus:Erethizon" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "specificepithet:africaeaustralis genus:Hystrix" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota" ; Times: 1
+	Query: "canada thistle" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "puma concolor startdayofyear &lt;= 1970" ; Times: 1
+	Query: "family:Bovidae haslifestage:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:telum genus:Stylodipus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1300 download events in this period)
+Total number of records downloaded: 2702
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 28
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-25 ; Times: 6
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera uncia" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "ursus americanus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "skeleton of Lama" ; Times: 3
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "ochotona collaris" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "Ochotona princeps vntype:specimen" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Myotis sodalis genus:myotis" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "Myotis septentrionalis genus:myotis" ; Times: 1
+	Query: "onychomys leucogaster AND arizona" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Spermophilus columbianus" ; Times: 1
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "peromyscus maniculatus &#34;lactating&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
