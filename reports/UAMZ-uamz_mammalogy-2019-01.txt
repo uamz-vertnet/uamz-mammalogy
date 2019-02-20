@@ -1,0 +1,169 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 377
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 49
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 4
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-18 ; Times: 10
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-14 ; Times: 5
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-22 ; Times: 4
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-27 ; Times: 2
+	Date: 2019-01-31 ; Times: 12
+	Date: 2019-01-26 ; Times: 4
+	Date: 2019-01-25 ; Times: 7
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "galemys pyrenaicus" ; Times: 2
+	Query: "manitoba specificepithet:lagopus genus:Alopex family:Canidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "yukon specificepithet:latrans genus:canis family:Canidae" ; Times: 1
+	Query: "Saskatchewan specificepithet:vulpes genus:vulpes family:Canidae" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:UAMZ" ; Times: 2
+	Query: "North american porcupine &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "catalognumber:m609 institutioncode:UAMZ" ; Times: 3
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UAMZ" ; Times: 1
+	Query: "axis deer" ; Times: 1
+	Query: "weasel" ; Times: 1
+	Query: "&#34;Hystrix&#34; &#34;Cape Porcupine&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Asian elephant" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:ruficaudus genus:tamias institutioncode:UAMZ" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 3
+	Query: "&#34;cape porcupine&#34;" ; Times: 1
+	Query: "catalognumber:m4450 institutioncode:UAMZ" ; Times: 1
+	Query: "rangifer tarandus country:&#34;Canada&#34;" ; Times: 2
+	Query: "west indian manatee" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:UAMZ" ; Times: 2
+	Query: "genus:Alopex" ; Times: 4
+	Query: "tarsius spectrum" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "erethizon and north american porcupine" ; Times: 2
+	Query: "&#34;Lasiurus borealis&#34; iowa" ; Times: 1
+	Query: "Northwest territories specificepithet:vulpes genus:vulpes family:Canidae" ; Times: 1
+	Query: "catalognumber:m770 institutioncode:UAMZ" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:UAMZ" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "rangifer tarandus caribou" ; Times: 1
+	Query: "Arctic fox" ; Times: 1
+	Query: "catalognumber:m3733 institutioncode:UAMZ" ; Times: 1
+	Query: "&#34;North American Porcupine&#34; and &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "catalognumber:m1483 institutioncode:UAMZ" ; Times: 2
+	Query: "Hystrix (Genus) Cape Porcupine" ; Times: 1
+	Query: "catalognumber:m304 institutioncode:UAMZ" ; Times: 1
+	Query: "(&#34;North American Porcupine&#34; &#34;Erethizon Dorsatum&#34;)" ; Times: 2
+	Query: "North American Porcupine Erethizon dorsatum" ; Times: 4
+	Query: "(&#34;North American Porcupine&#34;)" ; Times: 3
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:UAMZ" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "&#34;Erinaceidae Erinaceus&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UAMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 116 (out of 962 download events in this period)
+Total number of records downloaded: 420
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 97
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 24
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-28 ; Times: 11
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-22 ; Times: 6
+	Date: 2019-01-25 ; Times: 6
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-31 ; Times: 23
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-30 ; Times: 16
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "genus:Ochotona hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "genus:Alopex" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "genus:Herpestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "cynocephalidae" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "genus:herpestes order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+
+
+End of report.
