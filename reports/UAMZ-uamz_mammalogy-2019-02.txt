@@ -1,0 +1,126 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 896
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 96
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-13 ; Times: 44
+	Date: 2019-02-25 ; Times: 29
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 3
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 8
+	Date: 2019-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "american pika" ; Times: 26
+	Query: "specificepithet:Acinonyx jubatus genus:Acinonyx" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 16
+	Query: "american Pika" ; Times: 3
+	Query: "pronghorn" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "specificepithet:Ursus arctos" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 34
+	Query: "American Pika" ; Times: 3
+	Query: "myotis evotis hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Lophiomys" ; Times: 1
+	Query: "Atelerix frontalis" ; Times: 1
+	Query: "Lophiomys" ; Times: 1
+	Query: "American pika" ; Times: 1
+	Query: "specificepithet:Dasypus novemcinctus genus:Dasypus family:Dasypodidae" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "&#34;american pika&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UAMZ" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "AMERICAN PIKA" ; Times: 3
+	Query: "desmodontidae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1227 download events in this period)
+Total number of records downloaded: 321
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 15
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-14 ; Times: 7
+	Date: 2019-02-13 ; Times: 4
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "specificepithet:Acinonyx jubatus genus:Acinonyx" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:Ursus arctos" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "Dermoptera" ; Times: 3
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UAMZ" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+
+
+End of report.
