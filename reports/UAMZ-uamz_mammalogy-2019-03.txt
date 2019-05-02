@@ -1,0 +1,106 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 89
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 19
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-23 ; Times: 3
+	Date: 2019-03-08 ; Times: 3
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 21
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-22 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 1
+	Query: "spider monkey" ; Times: 1
+	Query: "Panthera uncia" ; Times: 2
+	Query: "LSU 6031" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes family:Canidae country:&#34;Canada&#34;" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 19
+	Query: "specificepithet:Cynomys" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "AMERICAN PIKA" ; Times: 2
+	Query: "hamster" ; Times: 2
+	Query: "ocelot" ; Times: 3
+	Query: "cheetah" ; Times: 1
+	Query: "Lophiomys imhausi" ; Times: 1
+	Query: "hamster specificepithet:sungorus genus:phodopus" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1281 download events in this period)
+Total number of records downloaded: 696
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-04 ; Times: 4
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-08 ; Times: 7
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "nutria" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "panda" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "&#34;Stylodipus&#34;" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "bettongia" ; Times: 1
+	Query: "Lophiomys imhausi" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "dendrolagus" ; Times: 1
+	Query: "order:Artiodactyla stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "specificepithet:mustela erminea" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
