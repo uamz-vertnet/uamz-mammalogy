@@ -1,0 +1,128 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 267
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Brazil ; Times: 2
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-30 ; Times: 10
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 4
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ring-tailed cat" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "deer mice hastissue:1" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus institutioncode:UAMZ hastissue:1" ; Times: 1
+	Query: "deer mouse" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "genus:Mephitis institutioncode:UAMZ" ; Times: 1
+	Query: "specificepithet:sorex vagrans class:mammalia" ; Times: 1
+	Query: "specificepithet:leopardus pardalis" ; Times: 1
+	Query: "specificepithet:Lynx rufus" ; Times: 1
+	Query: "&#34;battle creek&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "wandering shrew" ; Times: 4
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "specificepithet:sorex vagrans" ; Times: 1
+	Query: "snowshoe hare" ; Times: 5
+	Query: "genus:Spilogale institutioncode:UAMZ" ; Times: 1
+	Query: "bearded seal" ; Times: 1
+	Query: "specificepithet:sorex+vagrans" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1263 download events in this period)
+Total number of records downloaded: 796
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Brazil ; Times: 2
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 8
+	Date: 2019-04-02 ; Times: 11
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
