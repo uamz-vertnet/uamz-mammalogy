@@ -1,0 +1,112 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 332
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 35
+	Country: Nepal ; Times: 12
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 12
+	Date: 2019-07-18 ; Times: 6
+	Date: 2019-07-25 ; Times: 3
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-31 ; Times: 3
+	Date: 2019-07-07 ; Times: 6
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-21 ; Times: 8
+	Date: 2019-07-06 ; Times: 5
+	Date: 2019-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "genus:Pteromys" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "giant anteater" ; Times: 1
+	Query: "anteater skeleton" ; Times: 2
+	Query: "nutria" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "siamang" ; Times: 3
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 12
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "felis concolor" ; Times: 3
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "specificepithet:syndactylus preparations:skull basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "giant anteater skeleton" ; Times: 2
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "armadillo skeleton" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 1
+	Query: "coypu" ; Times: 1
+	Query: "W 65-52" ; Times: 1
+	Query: "genus:Galemys specificepithet:pyrenaicus" ; Times: 1
+	Query: "genus:Papio specificepithet:sp." ; Times: 1
+	Query: "snow leopard" ; Times: 1
+	Query: "specificepithet:puma concolor" ; Times: 1
+	Query: "Clearwater Peromyscus" ; Times: 2
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "Leopardus pajeros" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 985 download events in this period)
+Total number of records downloaded: 364
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 8
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-23 ; Times: 8
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-07 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lama guanicoe" ; Times: 1
+	Query: "specificepithet:syndactylus preparations:skull basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "Leopardus pajeros" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
