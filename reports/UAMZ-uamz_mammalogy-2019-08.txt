@@ -1,0 +1,120 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 896
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 10
+	Country: United States ; Times: 60
+	Country: Argentina ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-07 ; Times: 18
+	Date: 2019-08-05 ; Times: 9
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-15 ; Times: 13
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-30 ; Times: 6
+	Date: 2019-08-20 ; Times: 10
+	Date: 2019-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "vntype:specimen specificepithet:serotinus genus:Eptesicus preparations:skull" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "vntype:specimen specificepithet:pipistrellus genus:pipistrellus preparations:skull" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 16
+	Query: "Salvelinus confluentus" ; Times: 3
+	Query: "Lophiomys imhausi" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 11
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 9
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "groundhog" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1034 download events in this period)
+Total number of records downloaded: 921
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Brazil ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-19 ; Times: 3
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-29 ; Times: 7
+	Date: 2019-08-26 ; Times: 3
+	Date: 2019-08-24 ; Times: 3
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:serotinus genus:Eptesicus preparations:skull" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "vntype:specimen specificepithet:evotis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipistrellus genus:pipistrellus preparations:skull" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "typhlops" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "eulemur" ; Times: 1
+	Query: "vntype:specimen specificepithet:myotis genus:myotis preparations:skull" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
