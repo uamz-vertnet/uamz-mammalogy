@@ -1,0 +1,202 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 3135
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 166
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Sri Lanka ; Times: 6
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 6
+	Date: 2019-10-22 ; Times: 22
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-02 ; Times: 18
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 2
+	Date: 2019-10-01 ; Times: 9
+	Date: 2019-10-05 ; Times: 34
+	Date: 2019-10-03 ; Times: 16
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-04 ; Times: 52
+	Date: 2019-10-07 ; Times: 10
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-19 ; Times: 3
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-28 ; Times: 4
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pennanti genus:martes country:&#34;Canada&#34; continent:North America preparations:skull" ; Times: 1
+	Query: "albino specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 5
+	Query: "Dipodomys ordii 1974" ; Times: 1
+	Query: "Dipodomys ordii 1975" ; Times: 1
+	Query: "Dipodomys ordii 1976" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "locality:irvine stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "specificepithet:Sorex palustris" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;quebec&#34; country:&#34;Canada&#34; preparations:skull" ; Times: 1
+	Query: "Java Mouse Deer" ; Times: 1
+	Query: "specificepithet:imhausi genus:Lophiomys" ; Times: 4
+	Query: "Water Shrew" ; Times: 2
+	Query: "Microtus longicaudus 1972" ; Times: 1
+	Query: "specificepithet:ursus americanus" ; Times: 2
+	Query: "Microtus longicaudus 1974" ; Times: 1
+	Query: "Gray Wolf" ; Times: 2
+	Query: "Reithrodontomys megalotis 2016" ; Times: 2
+	Query: "water shrew" ; Times: 27
+	Query: "Thomomys talpoides 1985" ; Times: 1
+	Query: "vntype:specimen specificepithet:monax genus:marmota year &gt;= 1950 year &lt;= 1975" ; Times: 3
+	Query: "Thomomys talpoides 1973" ; Times: 1
+	Query: "Thomomys talpoides 1972" ; Times: 2
+	Query: "snow leopard" ; Times: 1
+	Query: "Lynx canadensis 2007" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "bush dog" ; Times: 2
+	Query: "arctic shrew" ; Times: 3
+	Query: "Myotis septentrionalis 1984" ; Times: 1
+	Query: "Little Brown Bat" ; Times: 5
+	Query: "specificepithet:Peromyscus leucopus" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 1
+	Query: "specificepithet:Condylura cristata" ; Times: 1
+	Query: "quokka" ; Times: 1
+	Query: "Thomomys talpoides 1999" ; Times: 1
+	Query: "Thomomys talpoides 1998" ; Times: 1
+	Query: "Thomomys talpoides 1993" ; Times: 1
+	Query: "Thomomys talpoides 1992" ; Times: 1
+	Query: "Thomomys talpoides 1997" ; Times: 1
+	Query: "Thomomys talpoides 1996" ; Times: 1
+	Query: "Thomomys talpoides 1995" ; Times: 1
+	Query: "Thomomys talpoides 1994" ; Times: 1
+	Query: "Mus musculus 1995" ; Times: 2
+	Query: "Zapus princeps 1972" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes country:&#34;Canada&#34;" ; Times: 1
+	Query: "Arctic Shrew" ; Times: 3
+	Query: "Onychomys leucogaster 1976" ; Times: 1
+	Query: "Onychomys leucogaster 1974" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Thomomys talpoides 1984" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "Thomomys talpoides 1986" ; Times: 1
+	Query: "Water shrew" ; Times: 1
+	Query: "Onychomys leucogaster 2016" ; Times: 3
+	Query: "Zapus princeps 2016" ; Times: 2
+	Query: "specificepithet:chinchilla genus:Chinchilla startdayofyear &lt;= 1970" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Neotoma cinerea 1989" ; Times: 1
+	Query: "Microtus longicaudus 1983" ; Times: 1
+	Query: "Geomys bursarius 2016" ; Times: 2
+	Query: "Microtus longicaudus 1980" ; Times: 1
+	Query: "Dipodomys ordii 2016" ; Times: 2
+	Query: "Dipodomys ordii 2015" ; Times: 5
+	Query: "Mus musculus 1972" ; Times: 3
+	Query: "Mus musculus 1973" ; Times: 2
+	Query: "Suricata suricatta preparations:skeleton" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 15
+	Query: "Zapus princeps 2007" ; Times: 1
+	Query: "Neotoma cinerea 1973" ; Times: 1
+	Query: "Leopardus pardalis 2015" ; Times: 1
+	Query: "Neotoma cinerea 1974" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "M1607" ; Times: 1
+	Query: "white-tailed jack rabbit" ; Times: 1
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "Lynx canadensis 1972" ; Times: 1
+	Query: "Myotis sodalis 2016" ; Times: 1
+	Query: "Columbian Ground Squirrel" ; Times: 1
+	Query: "Myotis septentrionalis 2016" ; Times: 1
+	Query: "Myotis septentrionalis 2015" ; Times: 1
+	Query: "Neotoma cinerea 2007" ; Times: 1
+	Query: "Neotoma cinerea 2002" ; Times: 1
+	Query: "specificepithet:chinchilla genus:Chinchilla" ; Times: 3
+	Query: "genus:condylura class:mammalia stateprovince:&#34;nova scotia&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "Rattus norvegicus 1975" ; Times: 1
+	Query: "Dipodomys ordii 2007" ; Times: 1
+	Query: "Puma concolor" ; Times: 8
+	Query: "Dipodomys ordii 1995" ; Times: 1
+	Query: "Lophiomys imhausi" ; Times: 1
+	Query: "Rattus norvegicus 1987" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "Rattus norvegicus 1989" ; Times: 1
+	Query: "Zapus princeps 1986" ; Times: 1
+	Query: "citellus Spermophilus" ; Times: 1
+	Query: "Thomomys talpoides 2016" ; Times: 4
+	Query: "specificepithet:americana genus:martes country:&#34;Canada&#34; continent:North America preparations:skull AND (NOT MSB)" ; Times: 1
+	Query: "Microtus longicaudus 2016" ; Times: 4
+	Query: "Microtus ochrogaster 2016" ; Times: 3
+	Query: "Neotoma cinerea 2016" ; Times: 3
+	Query: "Lynx canadensis 1992" ; Times: 1
+	Query: "Microtus ochrogaster 1977" ; Times: 1
+	Query: "Thomomys talpoides 2007" ; Times: 1
+	Query: "snowshoe hair" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Microtus montanus 2016" ; Times: 1
+	Query: "Microtus montanus 1986" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1308 download events in this period)
+Total number of records downloaded: 691
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "water shrew" ; Times: 2
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:chinchilla genus:Chinchilla" ; Times: 1
+	Query: "Potos flavus preparations:skeleton" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "quokka" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "white tailed deer" ; Times: 1
+
+
+End of report.
