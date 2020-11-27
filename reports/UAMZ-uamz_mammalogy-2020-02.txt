@@ -1,0 +1,159 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 229
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-04 ; Times: 5
+	Date: 2020-02-03 ; Times: 10
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-01 ; Times: 7
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 3
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "M4430" ; Times: 1
+	Query: "Dermoptera hastissue:1" ; Times: 2
+	Query: "indiana bat" ; Times: 2
+	Query: "&#34;Puma concolor&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "red panda" ; Times: 2
+	Query: "cape porcupine Hystrix africaeaustralis" ; Times: 2
+	Query: "genus:Odobenus preparations:skull" ; Times: 1
+	Query: "dermoptera hastissue:1" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "specificepithet:spasma genus:Megaderma hastissue:1" ; Times: 1
+	Query: "cheetah" ; Times: 2
+	Query: "Pika" ; Times: 2
+	Query: "M8312" ; Times: 1
+	Query: "ursus maritimus vntype:specimen preparations:skull institutioncode:UAMZ" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Beech marten" ; Times: 1
+	Query: "Symphalangus" ; Times: 1
+	Query: "cystophora" ; Times: 1
+	Query: "preparations:skull institutioncode:UAMZ" ; Times: 1
+	Query: "Pongo pygmaeus haslifestage:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 4
+	Query: "genus:Aplodontia hastissue:1" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "dermoptera" ; Times: 7
+	Query: "genus:Megaderma order:Chiroptera hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 116 (out of 1023 download events in this period)
+Total number of records downloaded: 2373
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 98
+	Country: Guyana ; Times: 1
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 12
+	Date: 2020-02-02 ; Times: 12
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 11
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 5
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-03 ; Times: 16
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-06 ; Times: 16
+	Date: 2020-02-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicaudus genus:microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "genus:cuniculus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "zapus princeps" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "vntype:specimen order:Primates family:galagidae" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "dermoptera hastissue:1" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen order:Primates family:Lorisidae" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "dermoptera" ; Times: 29
+	Query: "(dermoptera)" ; Times: 5
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "Symphalangus" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "Dermoptera" ; Times: 26
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "genus:Aplodontia hastissue:1" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "aardvark" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "canis latrans" ; Times: 1
+
+
+End of report.
