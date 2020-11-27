@@ -1,0 +1,72 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 426
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 5
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-04 ; Times: 11
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pika" ; Times: 2
+	Query: "southern rock vole" ; Times: 1
+	Query: "lagurus" ; Times: 1
+	Query: "specificepithet:peromyscus maniculatus hastissue:1" ; Times: 3
+	Query: "specificepithet:Peromyscus maniculatus" ; Times: 4
+	Query: "specificepithet:Peromyscus maniculatus hastissue:1" ; Times: 1
+	Query: "hedgehog" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "panthera uncia" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 596 download events in this period)
+Total number of records downloaded: 112
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "southern rock vole" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "myotis volans" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Spotted skunk" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
