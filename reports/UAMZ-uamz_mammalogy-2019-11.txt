@@ -1,0 +1,147 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 1029
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 87
+	Country: Denmark ; Times: 51
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 9
+	Date: 2019-11-09 ; Times: 9
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-07 ; Times: 36
+	Date: 2019-11-16 ; Times: 11
+	Date: 2019-11-11 ; Times: 4
+	Date: 2019-11-03 ; Times: 30
+	Date: 2019-11-10 ; Times: 9
+	Date: 2019-11-15 ; Times: 5
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-14 ; Times: 4
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-12 ; Times: 6
+	Date: 2019-11-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Grizzly Bear 2016" ; Times: 1
+	Query: "Myotis sodalis 2016" ; Times: 4
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Myotis septentrionalis 1984" ; Times: 4
+	Query: "jird" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 1992" ; Times: 1
+	Query: "Myotis sodalis 2015" ; Times: 1
+	Query: "Myotis septentrionalis 2016" ; Times: 4
+	Query: "Myotis septentrionalis 2015" ; Times: 3
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "Grizzly Bear 2015" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "Cuniculus paca" ; Times: 8
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "civit" ; Times: 1
+	Query: "Red Panda" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "(deer mice) hastissue:1" ; Times: 1
+	Query: "specificepithet:monax genus:marmota continent:North America year &gt;= 1950 year &lt;= 1975" ; Times: 3
+	Query: "red fox" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 1962" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 2
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "woodchuck" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Lynx canadensis 1972" ; Times: 4
+	Query: "Chironectes minimus" ; Times: 3
+	Query: "Marmota caligata" ; Times: 2
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "Ratufa macroura" ; Times: 1
+	Query: "Lynx canadensis 1992" ; Times: 4
+	Query: "Castor canadensis hastissue:1" ; Times: 2
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "Capra ibex" ; Times: 1
+	Query: "tupaia tana" ; Times: 1
+	Query: "West Indian manatee 2015" ; Times: 5
+	Query: "West Indian manatee 2016" ; Times: 5
+	Query: "Elephant Maximus" ; Times: 3
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "Elephas maximus" ; Times: 4
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias stateprovince:&#34;Alberta&#34; institutioncode:UAMZ" ; Times: 2
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "snow leopard" ; Times: 2
+	Query: "Lynx canadensis 2007" ; Times: 4
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Grizzly Bear 1974" ; Times: 1
+	Query: "D. McLeod" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "genus:eptesicus stateprovince:&#34;Minnesota&#34;" ; Times: 5
+	Query: "narwhal" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 2019" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1367 download events in this period)
+Total number of records downloaded: 278
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 7
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Marmota caligata" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Red Panda" ; Times: 2
+	Query: "specificepithet:amoenus genus:Tamias stateprovince:&#34;Alberta&#34; institutioncode:UAMZ" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+
+
+End of report.
