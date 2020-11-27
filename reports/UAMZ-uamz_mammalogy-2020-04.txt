@@ -1,0 +1,156 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 1033
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 109
+	Country: Nepal ; Times: 2
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-12 ; Times: 4
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-07 ; Times: 47
+	Date: 2020-04-27 ; Times: 9
+	Date: 2020-04-03 ; Times: 13
+	Date: 2020-04-21 ; Times: 50
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen haslifestage:1" ; Times: 1
+	Query: "Snow leopard vntype:specimen" ; Times: 1
+	Query: "Cercopithecus cephus" ; Times: 4
+	Query: "Phodopus sungorus" ; Times: 4
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "Nandinia binotata" ; Times: 5
+	Query: "Muntiacus muntjak" ; Times: 3
+	Query: "Babyrousa babyrussa" ; Times: 4
+	Query: "red panda" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 3
+	Query: "specificepithet:afer genus:Orycteropus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 4
+	Query: "vntype:specimen specificepithet:Sorex Palustris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Myotis sodalis" ; Times: 1
+	Query: "wolverine" ; Times: 2
+	Query: "Ourebia ourebi" ; Times: 4
+	Query: "specificepithet:Myotis septentrionalis" ; Times: 2
+	Query: "Axis axis" ; Times: 2
+	Query: "Salvelinus confluentus" ; Times: 5
+	Query: "cheetah" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 5
+	Query: "Neomys fodiens" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 12
+	Query: "specificepithet:Sorex Palustris basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Ovis dalli" ; Times: 4
+	Query: "pangolin" ; Times: 1
+	Query: "V. vulpes" ; Times: 5
+	Query: "Snow leopard" ; Times: 4
+	Query: "AM R.5038" ; Times: 1
+	Query: "Panthera tigris" ; Times: 6
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "leopardus tigrinus" ; Times: 5
+	Query: "Meles meles" ; Times: 4
+	Query: "specificepithet:caecutiens genus:Sorex preparations:skin" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 8
+	Query: "Myrmecophaga tridactyla" ; Times: 6
+	Query: "Lutra lutra" ; Times: 9
+	Query: "Saimiri sciureus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1171 download events in this period)
+Total number of records downloaded: 892
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Nepal ; Times: 2
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 29
+	Country: Argentina ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-05 ; Times: 5
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-26 ; Times: 6
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-28 ; Times: 14
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "vntype:specimen genus:Galago" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "red panda" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 12
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen family:Orycteropodidae" ; Times: 1
+	Query: "vntype:specimen family:Cynocephalidae" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "snow leopard" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+
+
+End of report.
