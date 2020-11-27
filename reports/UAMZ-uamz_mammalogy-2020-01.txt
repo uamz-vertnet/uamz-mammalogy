@@ -1,0 +1,135 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 181
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 20
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Bolivia ; Times: 3
+	Country: Kazakhstan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-31 ; Times: 3
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-13 ; Times: 3
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "asian elephant" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 3
+	Query: "pika" ; Times: 1
+	Query: "M8312" ; Times: 1
+	Query: "southern rock vole" ; Times: 1
+	Query: "specificepithet:hoyi genus:sorex stateprovince:&#34;alberta&#34; institutioncode:UAMZ" ; Times: 1
+	Query: "Microtus richardsoni country:&#34;Canada&#34;" ; Times: 1
+	Query: "Rangifer tarandus caribou mappable:1" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "sorex hoyi" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Perognathus" ; Times: 2
+	Query: "Chrysochloridae hastissue:1" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "Ocelot" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Cheetah" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 2
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma concolor" ; Times: 1
+	Query: "genus:Procyon stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1584 download events in this period)
+Total number of records downloaded: 431
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 54
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-11 ; Times: 4
+	Date: 2020-01-12 ; Times: 7
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-31 ; Times: 11
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-30 ; Times: 10
+	Date: 2020-01-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Microtus richardsoni country:&#34;Canada&#34;" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Dasyurus maculatus" ; Times: 2
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+
+
+End of report.
