@@ -1,0 +1,116 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 52
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 3
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-18 ; Times: 8
+	Date: 2020-03-20 ; Times: 5
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-02 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Scotophilus leucogaster" ; Times: 1
+	Query: "red panda" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:UAMZ hastissue:1" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:aethiopicus" ; Times: 2
+	Query: "Megaderma spasma" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus year &lt;= 1930" ; Times: 1
+	Query: "genus:Manis hastissue:1" ; Times: 1
+	Query: "Nyctereutes" ; Times: 2
+	Query: "Neoromicia capensis" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Dipodomys spectabilis stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hipposideros gigas" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 4
+	Query: "Epomophorus crypturus" ; Times: 1
+	Query: "(M3014)" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "specificepithet:pennanti" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 853 download events in this period)
+Total number of records downloaded: 464
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 12
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-31 ; Times: 3
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 3
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Kangaroo mouse" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+
+
+End of report.
