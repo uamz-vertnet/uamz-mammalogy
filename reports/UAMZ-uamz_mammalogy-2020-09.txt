@@ -1,0 +1,147 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 261
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 32
+	Country: Colombia ; Times: 6
+	Country: Switzerland ; Times: 5
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 4
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-22 ; Times: 5
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-05 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caligata genus:Marmota haslifestage:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ourebi genus:Ourebia" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "northern flying squirrel" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex preparations:skull" ; Times: 2
+	Query: "Pygmy shrew" ; Times: 1
+	Query: "pronghorn" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 2
+	Query: "red panda" ; Times: 5
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "specificepithet:sodalis genus:Myotis stateprovince:&#34;Kentucky&#34; haslifestage:1" ; Times: 2
+	Query: "wolverine" ; Times: 1
+	Query: "specificepithet:ourebi genus:Ourebia" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 3
+	Query: "vntype:specimen specificepithet:davidianus genus:Elaphurus" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "specificepithet:lagopus genus:alopex preparations:skull institutioncode:UAMZ" ; Times: 1
+	Query: "water shrew" ; Times: 2
+	Query: "genus:elaphurus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Aplodontia hastissue:1" ; Times: 3
+	Query: "genus:Puma hastissue:1" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "narwhal" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex preparations:skull" ; Times: 3
+	Query: "Aplodontia rufa vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:davidianus genus:Elaphurus" ; Times: 1
+	Query: "specificepithet:lervia genus:Ammotragus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 976 download events in this period)
+Total number of records downloaded: 3118
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 5
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 6
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "pusa hispida" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota haslifestage:1" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Ourebia ourebi" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex preparations:skull" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
