@@ -1,0 +1,123 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 15
+	Country: Malaysia ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-14 ; Times: 6
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "Tupaia tana" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "genus:Napaeozapus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Puma" ; Times: 2
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 2
+	Query: "silver haired bat" ; Times: 1
+	Query: "bat genus:Lasionycteris year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "pika" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 940 download events in this period)
+Total number of records downloaded: 3202
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 8
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Echinosorex" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+
+
+End of report.
