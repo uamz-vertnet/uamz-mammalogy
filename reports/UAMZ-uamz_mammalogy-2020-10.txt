@@ -1,0 +1,182 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 1132
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 55
+	Country: Netherlands ; Times: 1
+	Country: Bangladesh ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Greece ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 12
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-31 ; Times: 4
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-09 ; Times: 6
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 5
+	Date: 2020-10-02 ; Times: 6
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-01 ; Times: 3
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-05 ; Times: 21
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias class:mammalia institutioncode:UAMZ" ; Times: 1
+	Query: "panthera uncia" ; Times: 4
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UAMZ" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1 hassex:1" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 2
+	Query: "white tailed rabbit" ; Times: 1
+	Query: "north American porcupine" ; Times: 1
+	Query: "pikas" ; Times: 3
+	Query: "Water shrew" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "scientificname:Saguinus oedipus" ; Times: 1
+	Query: "stateprovince:&#34;Newfoundland&#34; institutioncode:UAMZ" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "woodchuck" ; Times: 2
+	Query: "Ammotragus lervia" ; Times: 1
+	Query: "water shrew" ; Times: 15
+	Query: "genus:ornithorhynchus preparations:skeleton" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "equus ferus caballus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "pangolin" ; Times: 5
+	Query: "hoary marmot" ; Times: 2
+	Query: "Panthera tigris" ; Times: 2
+	Query: "class:Mammalia year &gt;= 1800 year &lt;= 2015 institutioncode:UAMZ" ; Times: 1
+	Query: "Meles meles" ; Times: 1
+	Query: "Blakiston" ; Times: 1
+	Query: "Pronghorn" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "specificepithet:caffer genus:Syncerus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:UAMZ" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:UAMZ" ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias class:mammalia institutioncode:UAMZ" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "scientificname:Nyctereutes procyonoides" ; Times: 1
+	Query: "SD 3692" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "arctic shrew" ; Times: 1
+	Query: "hedgehog" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1521 download events in this period)
+Total number of records downloaded: 22587
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-12 ; Times: 4
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-28 ; Times: 9
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-21 ; Times: 3
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-31 ; Times: 12
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-14 ; Times: 12
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1 hassex:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UAMZ" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "vntype:specimen genus:pongo" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "family:elephantidae" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &gt;= 1950" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "class:Mammalia year &gt;= 1800 year &lt;= 2015 institutioncode:UAMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:Orycteropus" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "LAMA GUANICOE" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "specificepithet:ellipsiprymnus genus:kobus" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
