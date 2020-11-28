@@ -1,0 +1,76 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 30
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 12
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-10 ; Times: 8
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "mustela asia" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "Panthera uncia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 474 download events in this period)
+Total number of records downloaded: 290
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-11 ; Times: 4
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "muskrat" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "pacific shrew" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+
+
+End of report.
