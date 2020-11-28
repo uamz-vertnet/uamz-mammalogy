@@ -1,0 +1,114 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 285
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 12
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-26 ; Times: 5
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-24 ; Times: 8
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-21 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Blakiston Canada" ; Times: 1
+	Query: "Cercopithecus cephus" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "patagonian mara" ; Times: 1
+	Query: "Symphalangus syndactylus" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 1
+	Query: "red panda" ; Times: 2
+	Query: "tufted deer" ; Times: 1
+	Query: "specificepithet:Panthera tigris genus:Panthera" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 3
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "west indian manatee" ; Times: 7
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "mappable:1 scientificname:Mustela vison" ; Times: 1
+	Query: "Hylobates agilis" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "Blakiston" ; Times: 5
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "Gray wolf" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 756 download events in this period)
+Total number of records downloaded: 2862
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 25
+	Country: Burkina Faso ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-26 ; Times: 9
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-24 ; Times: 8
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "baculum" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "red panda" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "grey wolf" ; Times: 1
+	Query: "genus:ochotona" ; Times: 3
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "specificepithet:arctos horribilis genus:Ursus" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+
+
+End of report.
