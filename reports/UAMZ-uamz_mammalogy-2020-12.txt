@@ -1,0 +1,92 @@
+Report for Institution Code UAMZ, Resource uamz_mammalogy
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 232
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 6
+	Country: Kenya ; Times: 2
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-30 ; Times: 6
+	Date: 2020-12-09 ; Times: 4
+	Date: 2020-12-08 ; Times: 5
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-14 ; Times: 9
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Napaeozapus insignis stateprovince:new york" ; Times: 2
+	Query: "Elaphurus davidianus" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 2
+	Query: "specificepithet:davyi genus:Pteronotus country:&#34;Trinidad&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:minimus genus:tamias institutioncode:UAMZ" ; Times: 1
+	Query: "Phacochoerus" ; Times: 2
+	Query: "(red panda)" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "scientificname:Sciurocheirus alleni" ; Times: 1
+	Query: "Myotis daubentoni" ; Times: 1
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "hedgehog" ; Times: 1
+	Query: "indian squirrel" ; Times: 2
+	Query: "pika" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 705 download events in this period)
+Total number of records downloaded: 3462
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 5
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-02 ; Times: 5
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UAMZ" ; Times: 1
+
+
+End of report.
